@@ -2,6 +2,6 @@ package com.miapp;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println(Saludo.obtenerSaludo());
+        System.out.println(Saludo.obtenerSaludo1());
     }
 }
